@@ -1,3 +1,3 @@
 # README.md
 
-## Will be updated soon
+https://www.thingiverse.com/thing:4138631
