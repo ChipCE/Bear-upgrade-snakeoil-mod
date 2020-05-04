@@ -34,7 +34,7 @@
 | X carrier | Bear Bondtech mounter | Standard bondtech carrier also work on stock mk3?(not tested) |
 | Body front | v2-ptfe-body-front..stl |  |
 | Body back | v2-ptfe-body-back.stl |   |
-| Filament sensor level | v2-fs-lever.stl |   |
+| Filament sensor level | v2-fs-lever.stl | Use the fix version instead. This version has extend the level by 0.5mm to address the unstable trigger problem in the original design  |
 | Sensor ballbearing adapter | v2-adapter-printer.stl |   |
  Hingle | v2-hingle.stl |  |
 | Filament sensor cover | v2-Sensor_Cover_MK3s.stl | v2-Sensor_Cover_MK3s-M5x08.STL, v2-Sensor_Cover_MK3s-M6x1.stl |
